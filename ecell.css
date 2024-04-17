@@ -478,7 +478,7 @@ body, html {
   width: calc(25% - 20px);
   margin-bottom: 20px;
   background: linear-gradient(#BD9F67, black);
-  padding: 10px;
+  padding: 5px;
   border-radius: 10px;
 }
 
